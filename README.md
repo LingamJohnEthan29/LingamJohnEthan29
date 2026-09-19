@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Rank
 
 ## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LingamJohnEthan29&show_icons=true&rank_icon=percentile)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LingamJohnEthan29&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LingamJohnEthan29)](https://github.com/ryo-ma/github-profile-trophy)
