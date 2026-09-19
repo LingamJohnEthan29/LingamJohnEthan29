@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LingamJohnEthan29)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LingamJohnEthan29&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=LingamJohnEthan29&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
